@@ -18,11 +18,18 @@
 - 📫 How to reach me **lokesh07084@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://dev.to/lokesh_07084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lokesh_07084" height="50" width="50" /></a>
-  <a href="https://linkedin.com/in/lokesh-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh p" height="50" width="50" /></a>
-  <a href="https://medium.com/@lokesh07084" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lokesh07084" height="50" width="50" /></a>
-</p>
+<div align="left">
+  <a href="https://dev.to/lokesh_07084" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="devto logo"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lokesh-p" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
+  </a>
+  <a href="https://medium.com/@lokesh07084" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"/>
+  </a>
+</div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
